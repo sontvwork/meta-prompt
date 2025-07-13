@@ -58,7 +58,6 @@ AI sẽ:
 
 ### 4. Thử Nghiệm và Tinh Chỉnh
 
-- Sử dụng các test cases được đề xuất
 - Yêu cầu AI cải thiện prompt nếu kết quả chưa đạt yêu cầu
 
 ## 🔧 Khắc Phục Sự Cố

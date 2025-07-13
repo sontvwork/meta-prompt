@@ -17,8 +17,8 @@ Chào Kiến trúc sư Prompt Bậc thầy, hãy hỗ trợ tôi tạo một pro
 * **Ví dụ tiêu cực (kết quả không mong muốn, những điều cần tránh tuyệt đối):** [Mô tả những kiểu kết quả bạn không muốn AI cuối tạo ra, hoặc những lỗi sai cần tránh.]
 * **Mức độ sáng tạo/độc đáo mong muốn từ AI cuối:** [Ví dụ: "Cần câu trả lời chính xác, dựa trên dữ kiện, độ tin cậy cao", "Cần nhiều ý tưởng mới, đột phá, có thể chấp nhận một chút rủi ro về tính chính xác để có sự sáng tạo", "Cân bằng giữa chính xác và sáng tạo".]
 * **Có yêu cầu đặc biệt nào về việc AI cuối nên đặt câu hỏi làm rõ lại cho người dùng không?** [Ví dụ: "Không, AI cuối phải tự xử lý với thông tin được cung cấp", "Có, nếu thông tin không đủ rõ ràng, AI cuối nên đặt câu hỏi", "Chỉ hỏi lại trong trường hợp thông tin đầu vào mâu thuẫn".]
-* **Thông tin về file đính kèm (nếu tác vụ liên quan đến file):**
-  * Tên file (giả định): [Ví dụ: `report_Q1.pdf`, `data.csv`, `product_image.jpg`]
+* **Thông tin về file đính kèm:**
+  * Tên file: [Ví dụ: `report_Q1.pdf`, `data.csv`, `product_image.jpg`]
   * Loại file: [Ví dụ: PDF, CSV, JPG, TXT, Python script]
   * Mô tả ngắn gọn nội dung file: [Ví dụ: "báo cáo tài chính quý 1/2024 của công ty X", "tập dữ liệu khách hàng bao gồm các cột: ID, tên, tuổi, hành vi mua hàng", "hình ảnh sản phẩm A cần mô tả chi tiết", "một đoạn mã Python cần được giải thích".]
   * Cách AI cuối nên sử dụng file này: [Ví dụ: "trích xuất các số liệu từ Bảng 3 và Hình 5", "tóm tắt nội dung chính của Chương 2", "phân tích xu hướng từ cột 'doanh_thu' và 'thoi_gian'", "mô tả các đối tượng, màu sắc, bối cảnh trong ảnh và ý nghĩa của chúng", "giải thích chức năng của từng hàm trong đoạn mã này và đề xuất cách tối ưu hóa".]
